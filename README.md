@@ -19,7 +19,6 @@
 </br></br>
 
 <img alt="Python" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaBiest&layout=compact&title_color=fafafa&bg_color=282828&text_color=00eac0" />
-</br></br>
 
 ## Tools
 
