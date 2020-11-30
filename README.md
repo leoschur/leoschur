@@ -2,11 +2,11 @@
 
 # About me
 - 🏢 I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
-- I´m a curious spirit
-- I´m quick to get enthusiastic about different topics
-- I love taking things apart
-- I love sports and staying fit
-- I play piano - not good good but good enough
+- 🦝 I´m a curious spirit
+- ⚡ I´m quick to get enthusiastic about different topics
+- 🔧 I love taking things apart
+- 🎾 I love sports and staying fit
+- 🎹 I play piano - not good good but good enough
 - ♙ [Challange me](https://www.chess.com/member/betabiest)
   
 ## Languages
