@@ -7,6 +7,7 @@
 - I love taking things apart
 - I love sports and staying fit
 - I play piano - not good good but good enough
+- ♙ [Challange me](https://www.chess.com/member/betabiest)
   
 ## Languages
 
