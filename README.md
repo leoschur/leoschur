@@ -10,7 +10,7 @@
 - ♙ [Challange me](https://www.chess.com/member/betabiest)
 - <details>
   <summary>Contact me</summary>
-  <img alt="Discord" width="16px" style="display: inline; margin-right: 10px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" />BetaBiest#9431
+  <img alt="Discord" width="16px" style="display: inline; margin-right: 10px" src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" /> BetaBiest#9431
 </details>
   
 ## Languages
