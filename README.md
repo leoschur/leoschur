@@ -1,4 +1,4 @@
-## 👋🏻 Hi, Im Leo - aka [BetaBiest](https://github.com/BetaBiest)
+## 👋🏻 Hi, Im [Leo](https://github.com/BetaBiest)
 
 # About me
 - 🏢 I´m currently studying media informatics at [OTH-AW](https://www.oth-aw.de) in Amberg
