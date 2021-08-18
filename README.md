@@ -23,7 +23,7 @@
 <img align="left" alt="Python" style="margin-right: 10px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </br></br>
 
-<img alt="MostUsed" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaBiest&layout=compact&title_color=fafafa&bg_color=24292e&text_color=00eac0" />
+<img alt="MostUsed" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoschur&layout=compact&title_color=fafafa&bg_color=24292e&text_color=00eac0" />
 
 ## Tools
 
